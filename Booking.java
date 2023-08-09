@@ -1,5 +1,5 @@
 /**
- * Booking
+ * Booking your ride 
  */
 public abstract class Booking {
     protected String customerName;
